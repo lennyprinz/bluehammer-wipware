@@ -1,8 +1,6 @@
 # ============================================================
 # BlueHammer WIPware (WIP - Work In Progress)
 # Based on the BlueHammer (CVE-2026-33825) local privilege
-# escalation PoC by Nightmare-Eclipse / "Chaotic Eclipse"
-# (https://github.com/Nightmare-Eclipse/BlueHammer)
 #
 # What this tool does:
 #   1. Reverses the exploit chain into an IoC checklist
